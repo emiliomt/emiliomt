@@ -12,7 +12,7 @@ ERP integrations (SAP B1, NetSuite, CONTPAQi, Siigo) · React
 📍 Chicago · 🎓 Chicago Booth MBA '26 · 🌎 Latin American markets
 
 [Portfolio](https://github.com/emiliomt/Personalportfoliowebsite) · 
-[LinkedIn](https://linkedin.com/in/emilio-montemayor)
+[LinkedIn]([https://linkedin.com/in/emilio-montemayor](https://www.linkedin.com/in/emilio-montemayor-49120ab3/))
 <!--
 **emiliomt/emiliomt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
