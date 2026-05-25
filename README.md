@@ -1,29 +1,31 @@
-## Emilio Montemayor
+# Emilio Montemayor
 
-Building AI-native tools for operations teams. Co-founder of **Anzu Dynamics** — 
-an agentic invoice automation and ERP integration platform for mid-market companies 
-in Mexico and Colombia.
+I build AI agents that automate the manual, fragmented workflows that slow down operations teams.
 
-**Stack:** Python · OCR/NLP pipelines · Anthropic & OpenAI vision models · 
-ERP integrations (SAP B1, NetSuite, CONTPAQi, Siigo) · React
+Currently: Building **Anzu Dynamics**, an agentic automation platform that handles invoice processing and ERP registration for mid-market companies in Mexico and Colombia. We replace 40%+ manual touchpoints in procurement cycles using OCR, NLP, and vision model pipelines.
 
-**Current focus:** Vertical AI agents for procurement and back-office automation
+---
 
-📍 Chicago · 🎓 Chicago Booth MBA '26 · 🌎 Latin American markets
+**Stack**
+Python · OCR/NLP · LLM vision models · ERP integrations · React · SQL
 
-[Portfolio](https://github.com/emiliomt/Personalportfoliowebsite) · 
-[LinkedIn]([https://linkedin.com/in/emilio-montemayor](https://www.linkedin.com/in/emilio-montemayor-49120ab3/))
-<!--
-**emiliomt/emiliomt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Focus**
+Vertical AI agents · Workflow automation · Agentic systems for back-office ops
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+
+Economics and statistics at ITAM (Mexico City). Built a foundation in quantitative reasoning as a Macroeconomics Lab Assistant, teaching analytical methods to small groups. That same instinct for translating technical complexity into plain language carries through everything I build and write today.
+
+---
+
+**Writing**
+
+[PandorAI Tech](https://pandoraitech.substack.com/) — Spanish-language newsletter on AI: news, LLM architecture, and statistical concepts explained without jargon. Built for a Latin American audience with no prior technical background.
+
+---
+
+🎓 Chicago Booth MBA '26: AI Concentration
+🎓 ITAM BS '21: Economics 
+🌎 US + Latin American markets
